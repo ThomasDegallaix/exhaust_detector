@@ -1,0 +1,4 @@
+Etape 1 : Localiser les yeux sur un flux vidéo
+Etape 2 : Localiser le blanc des yeux sur un flux vidéo
+Etape 3 : Calculer la freq à laquelle les yeux sont fermés sur un échantillon significatif (= 100 images ?)
+Etape 4 : Alerter le conducteur sur son niveau de fatigue
